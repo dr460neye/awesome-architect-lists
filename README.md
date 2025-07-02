@@ -33,5 +33,11 @@ Zeppelin - https://zeppelin.apache.org/ - Apache Zeppelin is similar to Jupyter 
 As AI has different needs than other big data use cases the data storage technologies are listed additionally to the general databases.
 
 
+#### Vector Databases
+To extend and empower AI models, Vector Databaes are critical to achieve wide range access to your internal company documents.
+
+QDrant - https://qdrant.tech/ - A cloud and on-premise database - The benefits on qdrant are definetly their payment model and simplicity in use. Everyone can get a minimal database for fast prototyping.
+
+
 
 
